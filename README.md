@@ -15,7 +15,7 @@ Welcome to my GitHub profile! I'm an aspiring, yet passionate, developer who lov
 
 ## 🔧 Technologies & Tools (of which I so far have either a basic, or intermediate, understanding) 
 
-- **Languages:** Python, JavaScript, HTML
+- **Languages:** Python, HTML, JavaScript
 - **Frameworks & Libraries:** React, Node.js
 - **Databases:** MySQL, PostgreSQL
 - **Tools & Platforms:** Docker, Kubernetes, AWS, Git
